@@ -73,7 +73,7 @@ The objective of this practical is to gain hands-on experience in SQL by perform
 
 ## 📁 Project Files
 
-* `03_SQL-banking_account_management.sql` – Contains all SQL queries and practical tasks.
+* `03_SQL-Banking-Account-Management` – Contains all SQL queries and practical tasks.
 * `README.md` – Contains project documentation.
 
 ## 👩‍💻 Student
