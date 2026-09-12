@@ -72,7 +72,7 @@ This practical contains **60 SQL tasks** covering:
 ```text
 01-SQL-Employee-Management-DDL-DML/
 │
-├── 01-Employee-Management-System.sql
+├── 01-SQL-Employee-Management-DDL-DML
 └── README.md
 ```
 
