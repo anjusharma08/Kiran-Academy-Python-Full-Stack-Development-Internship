@@ -67,7 +67,7 @@ The SQL file contains **60 practical tasks**, including:
 
 ## 📁 Files
 
-* `banking_account_management.sql` – Contains all SQL queries and practical tasks.
+* `02_ECommerce_Product_Inventory_Management.sql` – Contains all SQL queries and practical tasks.
 * `README.md` – Project documentation.
 
 ## 🎯 Objective
